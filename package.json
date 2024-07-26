@@ -1,5 +1,5 @@
 {
-  "name": "happy-birthday",
+  "name": "happy-b'day Riya",
   "version": "1.0.0",
   "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
   "main": "index.js",
@@ -22,7 +22,7 @@
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "Amit kumar singh",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/faahim/happy-birthday/issues"
